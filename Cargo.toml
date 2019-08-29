@@ -1,5 +1,5 @@
 [package]
-name = "QLearning"
+name = "q_learning"
 version = "0.1.0"
 authors = ["shintaro"]
 edition = "2018"
